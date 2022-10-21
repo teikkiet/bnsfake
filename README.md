@@ -1,2 +1,0 @@
-# bnsfake
-bnsfakencsoft
